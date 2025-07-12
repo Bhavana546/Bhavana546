@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavana Kolluri</h1>
 <h3 align="center">A Computer Sciencstudent passionate about Automation,AI,ML and Python development</h3>
-<imag align="right" alt="Coding" width="400" src="C:\Users\Dell\Downloads\coding-girl.gif")
+<imag align="right" alt="Coding" width="400" src="(https://pngtree.com/freebackground/a-dreamy-and-surreal-portrait-of-woman-in-profile_16411441.html)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavana546&label=Profile%20views&color=0e75b6&style=flat" alt="bhavana546" /> </p>
 
 - 🔭 I’m currently working on **ML Healthcare**
