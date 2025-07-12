@@ -1,4 +1,4 @@
-[![MasterHead](https://st2.depositphotos.com/1802620/7621/v/950/depositphotos_76219963-stock-illustration-programming-concept-banner.jpg)]
+![MasterHead](https://camo.githubusercontent.com/9a23836503c0a69b966ecf2a67d94a78ede959e6aa1ad60012d1589e7db445ba/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f433444313641514874456f4c496f5063594f672f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3230305f3830302f302f313635363037333033333037393f653d3231343734383336343726763d6265746126743d33373733326e5344545f534f2d72436b6643326c7732345248377466725672596d346c4b724244474f5177)
 <h1 align="center">Hi 👋, I'm Bhavana Kolluri</h1>
 <h3 align="center">A Computer Sciencstudent passionate about Automation,AI,ML and Python development</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/1200x/e7/26/c7/e726c74ac081eed50feee1433d12c998.jpg">
