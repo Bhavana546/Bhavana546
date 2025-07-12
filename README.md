@@ -1,3 +1,4 @@
+[![MasterHead](https://st2.depositphotos.com/1802620/7621/v/950/depositphotos_76219963-stock-illustration-programming-concept-banner.jpg)]
 <h1 align="center">Hi 👋, I'm Bhavana Kolluri</h1>
 <h3 align="center">A Computer Sciencstudent passionate about Automation,AI,ML and Python development</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/1200x/e7/26/c7/e726c74ac081eed50feee1433d12c998.jpg">
